@@ -3,10 +3,30 @@
     <title>往世乐土</title>
     <link href="https://xrz.github.io/feed.xml" rel="self" />
     <link href="https://xrz.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-09-03T23:30:35+08:00</updated>
     <author>
         <name>XRZ</name>
     </author>
     <id>https://xrz.github.io</id>
 
+    <entry>
+        <title>1</title>
+        <author>
+            <name>XRZ</name>
+        </author>
+        <link href="https://xrz.github.io/1.html"/>
+        <id>https://xrz.github.io/1.html</id>
+
+        <updated>2024-09-03T23:30:33+08:00</updated>
+            <summary>
+                <![CDATA[
+                    1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>1</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
